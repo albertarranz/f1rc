@@ -1,6 +1,6 @@
 # F1RC Project (doc in progress ...)
 
-F1RC, in a nutshell, is a multidisciplinary telemetry and timing project for RC cars and likely applicable to other types of vehicles. However, my initial focus has been on RC cars, both electric and combustion-powered.
+F1RC, in a nutshell, is a multidisciplinary light control, telemetry and timing project for RC cars and likely applicable to other types of vehicles. However, my initial focus has been on RC cars, both electric and combustion-powered.
 
 <img src="https://github.com/user-attachments/assets/94a7a34e-0699-467b-8cd6-50ee7fda5ec9" height="400"> <img src="https://github.com/user-attachments/assets/fec9602d-9cf7-4180-b186-39e30df4fe0a" height="300"/> <img src="https://github.com/user-attachments/assets/a938900c-1de0-493d-9562-eb74103a5412" height="400"/>
 
