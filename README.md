@@ -2,7 +2,7 @@
 
 F1RC, in a nutshell, is a multidisciplinary light control, telemetry and lap timing project for RC cars and likely applicable to other types of vehicles. However, my initial focus has been on RC cars, both electric and combustion-powered.
 
-<img src="https://github.com/user-attachments/assets/94a7a34e-0699-467b-8cd6-50ee7fda5ec9" height="400"> <img src="https://github.com/user-attachments/assets/fec9602d-9cf7-4180-b186-39e30df4fe0a" height="300"/> <img src="https://github.com/user-attachments/assets/a938900c-1de0-493d-9562-eb74103a5412" height="400"/>
+<img height="400" src="https://github.com/user-attachments/assets/ec229642-b16c-4d04-a9c5-c9e8268652bd" /> <img src="https://github.com/user-attachments/assets/fec9602d-9cf7-4180-b186-39e30df4fe0a" height="300"/> <img src="https://github.com/user-attachments/assets/a938900c-1de0-493d-9562-eb74103a5412" height="400"/>
 
 
 
@@ -19,6 +19,9 @@ The microcontroller continuously read the throttle servo value and, based on a t
 Everything worked perfectly and quickly. But soon I thought: "what a waste of resources, using a microcontroller just to control some brake lights…" And I started to imagine… and ended up building what I have today: a lighting, telemetry, and lap timing system for RC cars, all controlled through an Android app that has evolved and will keep evolving over time — and completely free.
 
 Here I offer everything you need to build it yourself: buying the components and ordering the PCB to be manufactured, installing the firwmare and the app. But in the very near future, I will also offer semi-assembled and fully assembled options for those who don't want to build anything from scratch.
+
+<img height="400" src="https://github.com/user-attachments/assets/03dfb155-aad1-47f5-acbc-642b76703714" />
+
 
 https://youtube.com/shorts/2Qd2mVsXTfQ
 
