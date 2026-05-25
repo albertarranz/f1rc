@@ -18,7 +18,7 @@ The microcontroller continuously read the throttle servo value and, based on a t
 
 Everything worked perfectly and quickly. But soon I thought: "what a waste of resources, using a microcontroller just to control some brake lights…" And I started to imagine… and ended up building what I have today: a lighting, telemetry, and lap timing system for RC cars, all controlled through an Android app that has evolved and will keep evolving over time — and completely free.
 
-Here I offer everything you need to build it yourself: buying the components and ordering the PCB to be manufactured, installing the firwmare and the app. But in the very near future, I will also offer semi-assembled and fully assembled options for those who don't want to build anything from scratch.
+Here I show everything you need to build it yourself: buying the components and ordering the PCB to be manufactured, installing the firwmare and the app. But in the very near future, I will also offer semi-assembled and fully assembled options for those who don't want to build anything from scratch.
 
 <img height="400" src="https://github.com/user-attachments/assets/03dfb155-aad1-47f5-acbc-642b76703714" />
 
